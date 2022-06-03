@@ -5,6 +5,7 @@
 
 #include "filesystem.h"
 
+#include "filesystem.h"
 namespace skyline::vfs {
     /**
      * @brief The PartitionFileSystem class abstracts a partition filesystem using the vfs::FileSystem api
